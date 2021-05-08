@@ -1,0 +1,2 @@
+rootProject.name = "splash_screen_animation"
+include ':app'
